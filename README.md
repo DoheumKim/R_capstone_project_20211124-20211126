@@ -4,3 +4,4 @@ Analyze and visualize the cause of the increase in Internet traffic growth(인�
 
 발표영상(presentation video): https://www.youtube.com/live/NI478hFzIMQ?si=EGzYELBF6c1DVhCP&t=8146
 관련 기사(Related Articles): https://it.chosun.com/site/data/html_dir/2022/11/28/2022112802192.html
+관련 자료(References): https://drive.google.com/drive/folders/1gRK2maht-gL2qQvvIN26a9E6mogXJ4zd?usp=drive_link
